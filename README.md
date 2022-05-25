@@ -10,7 +10,7 @@ An open-Source 10in quadcopter frame designed for high-performance freestyle and
 - Designed for OG DJI camera
 
 ### Recommended Hardware
-- Brotherhobby 2812 900kv motors or similar
+- Brotherhobby 3115 900kv motors or similar
 - HQprop 10x5x3 props
 - 30x30mm high current stack
 - DJI/Caddx air unit
